@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, sans-serif;
+    font-size: 22px
+}
+
+.first {
+    background-color: rgba(225, 109, 109, 0.76);
+}
+
+.big-font {
+    font-size: 32px;
+}
+
+#first-id {
+    font-size: 48px;
+    color: blue;
+}
+
+#second-id {
+    font-size: 28px;
+    font-weight: bold;
+    background-color: greenyellow;
+}
